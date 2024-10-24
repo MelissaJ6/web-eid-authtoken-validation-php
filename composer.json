@@ -36,7 +36,7 @@
         "phpseclib/phpseclib": "3.0.*",
         "guzzlehttp/psr7": "2.6.*",
         "web-eid/ocsp-php": "1.1.*",
-        "psr/log": "^2.0 || ^3.0"
+        "psr/log": "^2.0"
     },
     "scripts": {
         "fix-php": ["prettier src/**/* --write", "prettier examples/src/* --write"],
